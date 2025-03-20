@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 ## Hi there 👋
 
@@ -7,17 +7,13 @@ _Начинающий Python-разработчик с опытом создан
 и парсинга информации. Интересуюсь backend-разработкой, API-интеграциями и анализом данных._
 
 
-<div align="center">
+<div align="left">
 
-## 💻 My Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
 
 
 ## 💻 My Tech Stack:
-<div alignp="center">
+<div alignp="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,html,fastapi" />
   </a>
@@ -34,7 +30,7 @@ _Начинающий Python-разработчик с опытом создан
 
 ## :incoming_envelope: Связаться со мной:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/@CatWoolf "Telegram channel")
-<div alignp="center">
+<div alignp="left">
 <img src="https://github.com/user-attachments/assets/d88ceb68-70dd-4d52-8e01-bb5a44e5e687" width="150" colot="while" />
 
 
