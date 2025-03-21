@@ -17,14 +17,17 @@
 2. **SQL** Уровень владения - beginner
 3. **HTML** Уровень владения - beginner
 4. **FastAPI** Уровень владения - beginner
-
 <div alignp="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,fastapi" width="150" height="50" />
   </a>
 </p>
+
+## :gear: My Project   
+
+[Weather Bot :partly_sunny:](https://github.com/Alexey-KryLove/Weather_Bot.git)  
   
-## :open_book:Professional Development
+## :open_book:Professional Development  
 
 <div alignp="left">
   <p>Stepik / Онлайн-курс «Поколение <b>Python</b>: курс для начинающих» 2025 г.
