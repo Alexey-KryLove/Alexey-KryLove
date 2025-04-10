@@ -14,9 +14,9 @@
 
 ## 💻 My Tech Stack:
 1. **Python** Уровень владения - intermediate
-2. **SQL** Уровень владения - beginner
+2. **SQL** Уровень владения - intermediate
 3. **HTML** Уровень владения - beginner
-4. **FastAPI** Уровень владения - beginner
+4. **Flask** Уровень владения - intermediate
 <div alignp="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,html,fastapi" width="150" height="50" />
