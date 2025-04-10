@@ -19,7 +19,7 @@
 4. **Flask** Уровень владения - intermediate
 <div alignp="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,html,fastapi" width="150" height="50" />
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,flask" width="150" height="50" />
   </a>
 </p>
 
