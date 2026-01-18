@@ -18,7 +18,7 @@
 2. **Java** Уровень владения - intermediate
 3. **SQL** Уровень владения - intermediate
 4. **HTML** Уровень владения - beginner
-5. **Flask** Уровень владения - intermediate
+5. **FastAPI** Уровень владения - intermediate
 <div alignp="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,mysql,html,fastapi" width="150" height="50" />
